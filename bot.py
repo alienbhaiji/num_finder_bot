@@ -5,7 +5,7 @@ import os
 os.system('pip3 install -r requirements.txt')
 os.system('pip install -r requirements.txt')
 
-auth='6813197862:AAGrypDMrwc_rA697332St3TFfua7ATOIbQ'
+auth='6875417797:AAHzfOyDhi_xVjcxp2OvPa1LQtCO_cbrrNg'
 
 bot = telebot.TeleBot(auth) # creating a instance
 def tc(x,y):
