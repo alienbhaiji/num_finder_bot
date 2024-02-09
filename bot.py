@@ -3,6 +3,7 @@ import requests,random
 
 import os
 os.system('pip3 install -r requirements.txt')
+os.system('pip install -r requirements.txt')
 
 auth='6813197862:AAGrypDMrwc_rA697332St3TFfua7ATOIbQ'
 
