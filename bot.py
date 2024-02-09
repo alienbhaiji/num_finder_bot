@@ -1,10 +1,8 @@
 import telebot
 import requests,random
 
-from keep_alive import keep_alive
-keep_alive()
 import os
-from telebot import *
+os.system('pip3 install -r requirements.txt')
 
 auth='6813197862:AAGrypDMrwc_rA697332St3TFfua7ATOIbQ'
 
